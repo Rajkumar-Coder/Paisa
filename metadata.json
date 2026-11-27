@@ -1,0 +1,6 @@
+{
+  "name": "PaisaPulse - Personal Finance & Statement Tracker",
+  "description": "Android financial tracker for debit & credit card expenses, EMIs, Recurring Deposits (RD) with visual timelines, budgets, overspending alerts, and duplicate-free statement import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
